@@ -51,7 +51,7 @@ router.post('/', (req, res) => {
     res.status(500).json(err);
   });
 });
-});
+
 
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
@@ -60,7 +60,7 @@ router.put('/:id', (req, res) => {
   },
   {
     where: {
-      id.req.params.id
+      id: req.params.id
     }
   })
   .then(tagData => {
