@@ -7,9 +7,10 @@ The goal of this project was to create an E-commerce site with backend access on
 ## Table of Contents 🗒
 * [Installations](#installations-dependencies-)
 * [Running the App](#running-the-app)
+* [Usage](#usage-)
+* [Technologies Used](#tecnhologies-used)
 * [Video Demo](#Video-Demo)
 * [Screenshots](#Screenshots)
-* [Usage](#usage-)
 * [License](#license-)
 * [Contributors](#contributors-)
 * [Test](#tests-)
@@ -27,8 +28,18 @@ This will populate the database.
 node server
 ```
 This will run the server
+
 ## Usage 🏆
 Download seeds using 'node seeds/index' and then start the server using 'node server'. After that, you can use any app that allows you to call apis such as insomnia to test the application.
+
+## Technologies Used
+- Sequelize
+- Mysql2
+- Express
+- Dotenv
+- Node
+- Insomnia (testing routes)
+
 ## Video Demo
 [![Watch the video](https://img.youtube.com/vi/_ZTbbNaHevU/maxresdefault.jpg)](https://youtu.be/_ZTbbNaHevU)
 
@@ -41,11 +52,13 @@ Download seeds using 'node seeds/index' and then start the server using 'node se
       Copyright © MIT. All rights reserved. 
       
       Licensed under the MIT license.
+      
 ## Contributors 😃
 ```
 Jaimit Patel
 ```
 Contact me at jaimit_12@hotmail.com
+
 ## Tests 🧪
 To run tests, run these commands:
 ```
