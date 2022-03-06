@@ -6,11 +6,11 @@
 The goal of this project was to create an E-commerce site with backend access only using routes, node, and sequelize among other technologies.
 ## Table of Contents 🗒
 * [Installations](#dependencies)
-* [Running the app](#Running the app)
+* [Running the App](#Running-the-app)
+* [Video Demo](#Video-Demo)
+* [Screenshots](#Screenshots)
 * [Usage](#usage)
-
 * [License](#license)
-
 * [Contributors](#contributors)
 * [Test](#test)
 ## Installations (Dependencies) 💻
