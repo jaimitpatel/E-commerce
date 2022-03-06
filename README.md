@@ -8,7 +8,7 @@ The goal of this project was to create an E-commerce site with backend access on
 * [Installations](#installations-dependencies-)
 * [Running the App](#running-the-app)
 * [Usage](#usage-)
-* [Technologies Used](#tecnhologies-used)
+* [Technologies Used](#technologies-used)
 * [Video Demo](#Video-Demo)
 * [Screenshots](#Screenshots)
 * [License](#license-)
