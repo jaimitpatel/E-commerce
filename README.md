@@ -5,14 +5,14 @@
 ## Description 📝
 The goal of this project was to create an E-commerce site with backend access only using routes, node, and sequelize among other technologies.
 ## Table of Contents 🗒
-* [Installations](#dependencies-)
+* [Installations](installations-dependencies-)
 * [Running the App](#Running-the-app-)
 * [Video Demo](#Video-Demo)
 * [Screenshots](#Screenshots)
 * [Usage](#usage-)
 * [License](#license-)
 * [Contributors](#contributors-)
-* [Test](#test-)
+* [Test](#tests-)
 ## Installations (Dependencies) 💻
 To install dependencies, run these commands:
 ```
